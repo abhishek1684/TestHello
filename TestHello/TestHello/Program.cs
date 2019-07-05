@@ -11,6 +11,7 @@ namespace TestHello
         static void Main(string[] args)
         {
             Console.WriteLine("Hello I am test repository.");
+            Console.ReadLine();
         }
     }
 }
